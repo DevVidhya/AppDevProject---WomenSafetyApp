@@ -1,0 +1,2 @@
+# Women Safety App
+This is an Android app for women in an emergency which uses XML for implementing the front-end and Java for implementing different services including intents, broadcast in the back-end. The app can send the google location of the user as an SMS to the emergency number given by the user, show nearby police stations and alert the emergency number which will help in rescuing the user.
